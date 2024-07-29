@@ -34,10 +34,10 @@ O foco principal é a **qualidade do código**, as **boas práticas de desenvolv
 
 ## 🔧 Tecnologias Utilizadas
 
-- [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0subimpch6tzpy1askl3.png" alt=".NET 8" width="50" height="50">](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0subimpch6tzpy1askl3.png" alt=".NET 8" width="80" height="50">](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">](https://www.postgresql.org/)
-- [<img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="Entity Framework Core" width="50" height="50">](https://docs.microsoft.com/ef/core/)
-- [<img src="https://media.licdn.com/dms/image/D4E12AQE4AmAdWfL3sQ/article-cover_image-shrink_720_1280/0/1695127505668?e=1727913600&v=beta&t=r_nKOCuBp0DUXNdf3rdu_8GCiQaUZUnVlS_89nolAos" alt="xUnit" width="50" height="50">
+- [<img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="Entity Framework Core" width="80" height="50">](https://docs.microsoft.com/ef/core/)
+- [<img src="https://media.licdn.com/dms/image/D4E12AQE4AmAdWfL3sQ/article-cover_image-shrink_720_1280/0/1695127505668?e=1727913600&v=beta&t=r_nKOCuBp0DUXNdf3rdu_8GCiQaUZUnVlS_89nolAos" alt="xUnit" width="100" height="50">
 ](https://xunit.net/)
 
 ## 🚀 Como Executar o Projeto
