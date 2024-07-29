@@ -34,11 +34,6 @@ O foco principal é a **qualidade do código**, as **boas práticas de desenvolv
 
 ## 🔧 Tecnologias Utilizadas
 
-- [.NET 8](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Entity Framework Core](https://docs.microsoft.com/ef/core/)
-- [xUnit](https://xunit.net/)
-
 - [<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0subimpch6tzpy1askl3.png" alt=".NET 8" width="50" height="50">](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">](https://www.postgresql.org/)
 - [<img src="https://www.fixedbuffer.com/wp-content/uploads/2018/09/EFCore.png" alt="Entity Framework Core" width="50" height="50">](https://docs.microsoft.com/ef/core/)
