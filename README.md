@@ -34,10 +34,10 @@ O foco principal é a **qualidade do código**, as **boas práticas de desenvolv
 
 ## Tecnologias Utilizadas
 
-- ![.NET 8](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
-- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
-- ![Entity Framework Core](https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Entity_Framework_Logo.svg)
-- ![xUnit](https://upload.wikimedia.org/wikipedia/commons/0/0d/Xunit.png)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET 8" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Entity_Framework_Logo.svg" alt="Entity Framework Core" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Xunit.png" alt="xUnit" width="50" height="50">
 
 ## Como Executar o Projeto
 
