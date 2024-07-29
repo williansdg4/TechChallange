@@ -34,10 +34,10 @@ O foco principal é a **qualidade do código**, as **boas práticas de desenvolv
 
 ## Tecnologias Utilizadas
 
-- [.NET 8](https://dotnet.microsoft.com/download/dotnet/8.0)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Entity Framework Core](https://docs.microsoft.com/ef/core/)
-- [xUnit](https://xunit.net/)
+- ![.NET 8](https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg)
+- ![PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg)
+- ![Entity Framework Core](https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Entity_Framework_Logo.svg)
+- ![xUnit](https://upload.wikimedia.org/wikipedia/commons/0/0d/Xunit.png)
 
 ## Como Executar o Projeto
 
