@@ -2,7 +2,7 @@
 
 Aplicativo utilizando **.NET 8** para cadastro de contatos regionais, considerando a persistência de dados e qualidade de software.
 
-## Requisitos Funcionais
+## 📋 Requisitos Funcionais
 
 - **Cadastro de Contatos**: 
   - Permitir o cadastro de novos contatos, incluindo nome, telefone e e-mail.
@@ -15,7 +15,7 @@ Aplicativo utilizando **.NET 8** para cadastro de contatos regionais, consideran
 - **Atualização e Exclusão**: 
   - Possibilitar a atualização e exclusão de contatos previamente cadastrados.
 
-## Requisitos Técnicos
+## 🛠️ Requisitos Técnicos
 
 - **Persistência de Dados**:
   - Utilizado o banco de dados PostgreSQL para armazenar as informações dos contatos.
@@ -28,18 +28,18 @@ Aplicativo utilizando **.NET 8** para cadastro de contatos regionais, consideran
 - **Testes Unitários**:
   - Testes desenvolvidos utilizando xUnit.
 
-## Observações
+## 💡 Observações
 
 O foco principal é a **qualidade do código**, as **boas práticas de desenvolvimento** e o **uso eficiente da plataforma .NET 8**. Este projeto é uma demonstração de habilidades em persistência de dados, arquitetura de software e testes, além de boas práticas de desenvolvimento.
 
-## Tecnologias Utilizadas
+## 🔧 Tecnologias Utilizadas
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET 8" width="50" height="50">
 - <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="50" height="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Microsoft_Entity_Framework_Logo.svg" alt="Entity Framework Core" width="50" height="50">
-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Xunit.png" alt="xUnit" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Entity_Framework.png" alt="Entity Framework Core" width="50" height="50">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/XUnit_logo.png" alt="xUnit" width="50" height="50">
 
-## Como Executar o Projeto
+## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
     ```sh
